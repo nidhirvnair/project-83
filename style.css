@@ -1,0 +1,8 @@
+body{
+    background-image: url(bg1.jpg);
+    background-size: cover;
+}
+#myCanvas{
+    border-color: black;
+    border-style: ridge;
+}
